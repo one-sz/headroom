@@ -1,5 +1,7 @@
 # Headroom.js (Modern ES6+ Optimized Fork)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+
 A modern, optimized, and **ES6** rewritten version of the popular [headroom.js](https://github.com/WickyNilliams/headroom.js/), designed to hide or show your page's header based on scroll direction, improving mobile user experience and saving valuable screen real estate.
 
 This variant brings major performance improvements, code cleanliness, and new native features, dropping legacy dependencies in favor of modern web standards.
